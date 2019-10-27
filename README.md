@@ -1,10 +1,7 @@
 ## Linear Regression
 
 Linear regression is used to model the value of a dependent scale variable based on its linear relationship to one or more predictors. 
-
-
-The linear regression model assumes that there is a linear, or "straight line," relationship between the dependent variable and each predictor. This relationship is described in the following formula.
-**yi=b0+bxi1+...+ bP xip + ei**
+The linear regression model assumes that there is a linear, or "straight line," relationship between the dependent variable and each predictor. This relationship is described in the following formula.**yi=b0+bxi1+...+ bP xip + ei**
 
 where
 
