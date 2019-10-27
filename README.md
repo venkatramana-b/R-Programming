@@ -1,2 +1,5 @@
 # Linear Regression
-Linear approach to modeling the relationship between a scalar response and one or more explanatory variables. 
+
+Linear regression is a linear approach to modeling the relationship between a scalar response and one or more explanatory variables. The case of one explanatory variable is called simple linear regression.
+
+
